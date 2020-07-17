@@ -1,4 +1,4 @@
-Basic API calls
+Basic API calls \\
 Web-scraping examples
 Connect to relational database
 Some basic SQL queries
